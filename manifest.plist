@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ilink-systems.UPsQool</string>
+				<string>com.ilink-systems.Univar</string>
 				<key>bundle-version</key>
 				<string>0.01</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>UPsQool</string>
+				<string>Univar</string>
 			</dict>
 		</dict>
 	</array>
