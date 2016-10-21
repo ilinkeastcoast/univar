@@ -31,11 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>com.ilink-systems.ToteTanker</string>
 				<key>bundle-version</key>
-				<string>0.01</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Tote Tanker</string>
+				<string>ToteTanker</string>
 			</dict>
 		</dict>
 	</array>
